@@ -1,7 +1,7 @@
 {
-  "name": "intro-node-v3",
+  "name": "notes-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "A headless CLI application built to expedite the need for taking nodes without a graphical user interface.",
   "main": "index.js",
   "type": "module",
   "bin": {
@@ -10,7 +10,7 @@
   "scripts": {
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
-  "author": "",
+  "author": "Jennifer Tam",
   "license": "ISC",
   "dependencies": {
     "http": "^0.0.1-security",
