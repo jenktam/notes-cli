@@ -46,6 +46,49 @@
       ],
       "content": "price pottery items",
       "id": 1696544232862
+    },
+    {
+      "tags": [
+        "dog"
+      ],
+      "content": "walk dog",
+      "id": 1696884003144
+    },
+    {
+      "tags": [
+        "cleaning"
+      ],
+      "content": "take out the trash",
+      "id": 1696884026628
+    },
+    {
+      "tags": [
+        "cleaning",
+        " kitchen"
+      ],
+      "content": "clean kitchen",
+      "id": 1696884054890
+    },
+    {
+      "tags": [
+        "hygeine"
+      ],
+      "content": "brush my teeth",
+      "id": 1696884311554
+    },
+    {
+      "tags": [
+        "hygiene"
+      ],
+      "content": "brush my teeth",
+      "id": 1696884336801
+    },
+    {
+      "tags": [
+        "hygiene"
+      ],
+      "content": "brush my teeth",
+      "id": 1696884340398
     }
   ]
 }
